@@ -1,0 +1,32 @@
+{
+  "name": "jest-puppeteer-example",
+  "version": "1.0.0",
+  "description": "Jest using Puppeteer for @littleq/element-lite site testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmdelima/jest-puppeteer-example.git"
+  },
+  "author": "Zydrick Delima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmdelima/jest-puppeteer-example/issues"
+  },
+  "homepage": "https://github.com/zmdelima/jest-puppeteer-example#readme",
+  "keywords": [
+    "testing",
+    "puppeteer",
+    "jest",
+    "jest-puppeteer",
+    "shadowDOM"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "jest": "^23.6.0",
+    "puppeteer": "^1.10.0",
+    "rimraf": "^2.6.2"
+  }
+}
